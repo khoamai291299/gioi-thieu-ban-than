@@ -8,7 +8,7 @@
 ---
 
 ### 🖼️ Ảnh đại diện:
-![Ảnh đại diện](https://drive.google.com/file/d/1XAw-95I01gAQCTVwmpGh8lWfb7gumWX8/view?usp=sharing)
+![Ảnh đại diện](https://drive.google.com/file/d/1XAw-95I01gAQCTVwmpGh8lWfb7gumWX8/view?usp=drive_link)
 
 ---
 
